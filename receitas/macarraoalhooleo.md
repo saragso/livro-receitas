@@ -1,4 +1,4 @@
-# Macarrão alho e óleo
+# Macarrão alho e óleo :spaghetti:
 
 ### Ingredientes:
 * 5 dentes de alho amassados
