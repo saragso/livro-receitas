@@ -1,5 +1,7 @@
 # Livro de receitas :man_cook:
 
+Esse projeto foi desenvolvido durante aulas do curso de introdução ao Git e ao Github da DIO. Foi desenvolvido com o intuito de fixar os principais comandos do Git.
+
 Olá! Bem-vindo ao meu livro de receitas :wave:
 
 * Bolo de Cenoura
